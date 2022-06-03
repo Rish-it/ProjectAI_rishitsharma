@@ -18,6 +18,7 @@ be added at the last element of the array, and all previous values will be shift
     alert dialog is presetned to the user suggesting on his or her performance based on the last six games. </li>
 
   <li><b>sumOfScore</b> method should summing up the values of score array.</li>
+  <li><b>ML addition by rishit</b>you should focus on ML.</li>
 
 <li>A class <b>LR</b> is also provided with this project. The LR class has a getSlope method to provide the slope fromo the given data. The data must be input to the 
 <b>getSlope</b> method as a two-dimensional array (dataFrame). The first dimension will be the predictor values 1, 2, 3, 4, 5, 6 and the corresponding response values will
